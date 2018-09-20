@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple MvvM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_list">Post List</string>
+    <string name="post_created">Post Created</string>
+    <string name="post_detail">Post Detail</string>
+    <string name="hint_create_post">please create on your mind</string>
+</resources>
